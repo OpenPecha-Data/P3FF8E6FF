@@ -63,3 +63,8 @@ source_metadata:
       parent: Dhāraṇī
 created_at: '2022-03-01T04:03:55.010799'
 last_modified_at: '2022-03-01T04:03:55.010802'
+statistics:
+  total_words: 25990
+  total_non_words: 4850
+quality:
+  non_words_ratio: 0.19
